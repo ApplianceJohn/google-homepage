@@ -1,0 +1,1 @@
+This project involves the deconstruction of an existing HTML page as a means of studying what makes a functional design work.
