@@ -1,1 +1,1 @@
-This project involves the deconstruction of an existing HTML page as a means of studying what makes a functional design work.
+This project involves the reconstruction of an existing HTML page (namely, Google) as a means of studying what makes a functional design work.
